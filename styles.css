@@ -24,7 +24,7 @@ body {
 }
 
 .wrapper .center{
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	left: 52%;
 	transform: translate(-50%, -50%);
