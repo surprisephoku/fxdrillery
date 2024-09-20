@@ -18,6 +18,8 @@ body {
 	
 }
 .wrapper {
+	top: 50%;
+	left: 52%;
 	position: fixed;
 	align-content: center;
 	background: #092228;
@@ -26,8 +28,8 @@ body {
 
 .wrapper .center{
 	position: fixed;
-	top: 50%;
-	left: 52%;
+	top: 0%;
+	left: 0%;
 	transform: translate(-50%, -50%);
 	font-family: sans-serif;
 	user-select: none;
