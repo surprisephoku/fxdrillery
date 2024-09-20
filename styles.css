@@ -17,6 +17,7 @@ body {
 	
 }
 .wrapper {
+	position: fixed;
 	align-content: center;
 	background: #092228;
 	margin-bottom: 10px;
